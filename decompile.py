@@ -1,6 +1,6 @@
 
 
-import ast
+import ast 
 
 text = ast.parse('''
 def f(a) -> int:
